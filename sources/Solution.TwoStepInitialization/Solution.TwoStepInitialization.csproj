@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Nagarro.VirtualInConstructor.Solution.TwoPhaseConstruction</AssemblyName>
+    <RootNamespace>Nagarro.VirtualInConstructor.Solution.TwoPhaseConstruction</RootNamespace>
+  </PropertyGroup>
+
+</Project>
