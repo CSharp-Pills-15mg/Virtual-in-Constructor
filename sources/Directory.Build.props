@@ -1,0 +1,10 @@
+<Project>
+
+    <PropertyGroup>
+        <Company>Dust in the Wind</Company>
+        <Product>C# Pills 15mg</Product>
+        <Copyright>Copyright © Dust in the Wind 2021</Copyright>
+        <NeutralLanguage>en</NeutralLanguage>
+    </PropertyGroup>
+
+</Project>
